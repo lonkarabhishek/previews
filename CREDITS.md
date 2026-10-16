@@ -1,0 +1,1 @@
+Photos for Nashik batch fetched via Openverse (openverse.org) from Wikimedia Commons, rawpixel, StockSnap etc. under CC0 / CC BY / CC BY-SA. See credits.json for per-image creators. Illustrative only, not the businesses' own photos.
